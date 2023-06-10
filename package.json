@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rajitha-00/pubudu-server/issues"
+    "url": "https://github.com/PubuduDeepamal/json-server-jack/issues"
   },
-  "homepage": "https://github.com/rajitha-00/pubudu-server#readme",
+  "homepage": "https://github.com/PubuduDeepamal/json-server-jack#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
